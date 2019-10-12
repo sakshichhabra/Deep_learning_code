@@ -1,3 +1,4 @@
+#https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9
 import tensorflow as tf
 import matplotlib.image as mpimg
 import numpy as np
